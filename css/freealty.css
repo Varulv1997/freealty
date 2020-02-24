@@ -10885,6 +10885,8 @@ box-shadow:#009fe3 0px 0px 40px -8px
     text-decoration: none solid rgb(33, 37, 41);
     text-size-adjust: 100%;
     top: 0px;
+	background-attachment: fixed !important;
+	background-position-y: 48% !important;
     width: 674.5px;
     column-rule-color: rgb(33, 37, 41);
     perspective-origin: 337.25px 219.5px;
